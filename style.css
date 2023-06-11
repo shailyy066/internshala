@@ -1,0 +1,22 @@
+.container {
+  width: 200px;
+  height: 300px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  float: left;
+}
+
+.item {
+  background-color: #8cff8c;
+  padding: 10px;
+  margin-bottom: 5px;
+  cursor: move;
+}
+
+.success-message {
+  background-color: #8cff8c;
+  color: #006600;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
